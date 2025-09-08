@@ -1,0 +1,13 @@
+First day of learning SQL on site SQLBOLT
+Lesson 1: SELECT
+I have selected very simply data from table about Pixar Movies:
+My answers:
+SELECT * FROM movies;
+SELECT Title
+FROM movies;
+SELECT Director
+FROM movies;
+SELECT title, director
+FROM movies;
+SELECT title, year
+FROM movies;
