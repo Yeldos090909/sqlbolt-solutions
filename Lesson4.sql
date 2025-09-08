@@ -21,4 +21,4 @@ LIMIT 5;
 SELECT TITLE
 FROM movies
 ORDER BY TITLE ASC
-LIMIT 5 OFFSET 5;
+LIMIT 5 OFFSET 5; /* take the next 5 films (i.e. skip the first 5, show the next 5). */
